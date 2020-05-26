@@ -10,4 +10,6 @@ Reading a CSV file using pandas read\_csv function as well as pyarrow read_csv f
 
 - IPL data deliveries and matches the merged file. *[Refer IPL data analysis repo](https://github.com/nagaraj-datascientist/ipl_data_analysis)*
 
+### Video
 
+- Refer TechPOD recorded *[session here](https://www.youtube.com/watch?v=tkhNEdLUdgs)*
